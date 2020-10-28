@@ -273,6 +273,7 @@ main {
 }
 
 .main-commissions-table .commissions-table--title {
+    margin-top: 15px;
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
